@@ -1,0 +1,25 @@
+<my:myFields xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2015-03-01T18:52:55" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<my:AdminSection/>
+	<my:ConditionalFormatting/>
+	<my:etc>
+		<my:CreatedBy/>
+		<my:CreatedDate/>
+		<my:CurrentUserName/>
+		<my:CurrentUserLogin/>
+		<my:Debug/>
+		<my:DocumentNumber/>
+		<my:ExceptionMessage/>
+		<my:Filename/>
+		<my:FormVersion/>
+		<my:FormTemplateVersion/>
+		<my:History/>
+		<my:isAdmin>false</my:isAdmin>
+		<my:isNew>false</my:isNew>
+		<my:isEmailSent>false</my:isEmailSent>
+	</my:etc>
+	<xd:SchemaInfo LocalName="myFields" NamespaceURI="http://schemas.microsoft.com/office/infopath/2003/myXSD/2015-03-01T18:52:55">
+		<xd:Namespaces>
+			<xd:Namespace LocalName="myFields" NamespaceURI="http://schemas.microsoft.com/office/infopath/2003/myXSD/2015-03-01T18:52:55"/>
+		</xd:Namespaces>
+	</xd:SchemaInfo>
+</my:myFields>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005 Tools for Applications
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoPathFormStarter", "InfoPathFormStarter.csproj", "{FE47A7FA-5B80-4DBE-ABC6-7C6790285CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE47A7FA-5B80-4DBE-ABC6-7C6790285CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE47A7FA-5B80-4DBE-ABC6-7C6790285CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE47A7FA-5B80-4DBE-ABC6-7C6790285CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE47A7FA-5B80-4DBE-ABC6-7C6790285CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

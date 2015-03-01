@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution name="urn:schemas-microsoft-com:office:infopath:Form:-myXSD-2015-03-01T18-52-55" href="manifest.xsf" solutionVersion="1.0.0.16" productVersion="14.0.0" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document" versionProgid="InfoPath.Document.3"?>
+<my:myFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2015-03-01T18:52:55" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<my:AdminSection></my:AdminSection>
+	<my:ConditionalFormatting></my:ConditionalFormatting>
+	<my:etc>
+		<my:CreatedBy></my:CreatedBy>
+		<my:CreatedDate></my:CreatedDate>
+		<my:CurrentUserName></my:CurrentUserName>
+		<my:CurrentUserLogin></my:CurrentUserLogin>
+		<my:Debug></my:Debug>
+		<my:DocumentNumber></my:DocumentNumber>
+		<my:ExceptionMessage></my:ExceptionMessage>
+		<my:Filename></my:Filename>
+		<my:FormVersion></my:FormVersion>
+		<my:FormTemplateVersion></my:FormTemplateVersion>
+		<my:History></my:History>
+		<my:isAdmin>false</my:isAdmin>
+		<my:isNew>false</my:isNew>
+		<my:isEmailSent>false</my:isEmailSent>
+	</my:etc>
+</my:myFields>
